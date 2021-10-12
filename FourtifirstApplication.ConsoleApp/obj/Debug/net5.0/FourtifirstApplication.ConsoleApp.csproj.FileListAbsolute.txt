@@ -1,0 +1,16 @@
+/home/thedarkknight/RiderProjects/FourtifirstApplication.ConsoleApp/FourtifirstApplication.ConsoleApp/bin/Debug/net5.0/FourtifirstApplication.ConsoleApp
+/home/thedarkknight/RiderProjects/FourtifirstApplication.ConsoleApp/FourtifirstApplication.ConsoleApp/bin/Debug/net5.0/FourtifirstApplication.ConsoleApp.deps.json
+/home/thedarkknight/RiderProjects/FourtifirstApplication.ConsoleApp/FourtifirstApplication.ConsoleApp/bin/Debug/net5.0/FourtifirstApplication.ConsoleApp.runtimeconfig.json
+/home/thedarkknight/RiderProjects/FourtifirstApplication.ConsoleApp/FourtifirstApplication.ConsoleApp/bin/Debug/net5.0/FourtifirstApplication.ConsoleApp.runtimeconfig.dev.json
+/home/thedarkknight/RiderProjects/FourtifirstApplication.ConsoleApp/FourtifirstApplication.ConsoleApp/bin/Debug/net5.0/FourtifirstApplication.ConsoleApp.dll
+/home/thedarkknight/RiderProjects/FourtifirstApplication.ConsoleApp/FourtifirstApplication.ConsoleApp/bin/Debug/net5.0/ref/FourtifirstApplication.ConsoleApp.dll
+/home/thedarkknight/RiderProjects/FourtifirstApplication.ConsoleApp/FourtifirstApplication.ConsoleApp/bin/Debug/net5.0/FourtifirstApplication.ConsoleApp.pdb
+/home/thedarkknight/RiderProjects/FourtifirstApplication.ConsoleApp/FourtifirstApplication.ConsoleApp/obj/Debug/net5.0/FourtifirstApplication.ConsoleApp.csproj.AssemblyReference.cache
+/home/thedarkknight/RiderProjects/FourtifirstApplication.ConsoleApp/FourtifirstApplication.ConsoleApp/obj/Debug/net5.0/FourtifirstApplication.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/thedarkknight/RiderProjects/FourtifirstApplication.ConsoleApp/FourtifirstApplication.ConsoleApp/obj/Debug/net5.0/FourtifirstApplication.ConsoleApp.AssemblyInfoInputs.cache
+/home/thedarkknight/RiderProjects/FourtifirstApplication.ConsoleApp/FourtifirstApplication.ConsoleApp/obj/Debug/net5.0/FourtifirstApplication.ConsoleApp.AssemblyInfo.cs
+/home/thedarkknight/RiderProjects/FourtifirstApplication.ConsoleApp/FourtifirstApplication.ConsoleApp/obj/Debug/net5.0/FourtifirstApplication.ConsoleApp.csproj.CoreCompileInputs.cache
+/home/thedarkknight/RiderProjects/FourtifirstApplication.ConsoleApp/FourtifirstApplication.ConsoleApp/obj/Debug/net5.0/FourtifirstApplication.ConsoleApp.dll
+/home/thedarkknight/RiderProjects/FourtifirstApplication.ConsoleApp/FourtifirstApplication.ConsoleApp/obj/Debug/net5.0/ref/FourtifirstApplication.ConsoleApp.dll
+/home/thedarkknight/RiderProjects/FourtifirstApplication.ConsoleApp/FourtifirstApplication.ConsoleApp/obj/Debug/net5.0/FourtifirstApplication.ConsoleApp.pdb
+/home/thedarkknight/RiderProjects/FourtifirstApplication.ConsoleApp/FourtifirstApplication.ConsoleApp/obj/Debug/net5.0/FourtifirstApplication.ConsoleApp.genruntimeconfig.cache

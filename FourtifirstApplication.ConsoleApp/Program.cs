@@ -19,10 +19,9 @@ namespace FourtifirstApplication.ConsoleApp
             Console.WriteLine(string.Join(" ", allStudents));
         }
  
-        static string [] GetAllStudents( Classroom [] classes )
+        static string[] GetAllStudents(Classroom [] classes )
         {
-            // ???
-            return null;
+            return classes.SelectMany(x => x.Students).ToArray();
         }
       
         public class Classroom
